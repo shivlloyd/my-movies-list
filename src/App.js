@@ -36,7 +36,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>🎬 My Flix</h1>
+      <h1>🎬 My Movies Flix</h1>
       <p>Checkout my favorite Movies. Select a genre to get started</p>
       
       <div>
