@@ -1,0 +1,37 @@
+body{
+  background-color: rgb(241, 219, 255);
+}
+
+.App {
+  max-width: 600px;
+  margin:auto;
+  padding: 2rem;
+}
+
+hr{
+  border: 1px solid rgb(83, 9, 112);
+  background-color: rgb(83, 9, 112);
+}
+
+button{
+  color: white;
+  cursor: "pointer";
+  background-color:rgb(121, 42, 178);
+  border-radius: 0.5rem;
+  border: 1px solid rgb(83, 9, 112);
+  margin: 1rem 0.5rem;
+  padding: 6px 20px;
+}
+
+ul{
+  padding-left: 0px;
+}
+
+li{
+  list-style: none;
+  border: 1px solid rgb(83, 9, 112);
+  border-radius: 0.5rem;
+  margin: 1rem 0rem;
+  padding:1rem;
+  width:70%;
+}
